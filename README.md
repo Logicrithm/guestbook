@@ -490,9 +490,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <sub><b>Logicrithm</b></sub>
   </a>
   <br />
-  <a href="#question-Logicrithm" title="Answering Questions">💬</a>
-  <a href="https://github.com/OpenSource-Communities/guestbook/issues?q=author%3ALogicrithm" title="Bug reports">🐛</a>
   <a href="https://github.com/OpenSource-Communities/guestbook/commits?author=Logicrithm" title="Code">💻</a>
+  <a href="https://github.com/OpenSource-Communities/guestbook/issues?q=author%3ALogicrithm" title="Bug reports">🐛</a>
+  <a href="#question-Logicrithm" title="Answering Questions">💬</a>
   <a href="#financial-Logicrithm" title="Financial">💵</a>
   <a href="#fundingFinding-Logicrithm" title="Funding Finding">🔍</a>
 </td>
